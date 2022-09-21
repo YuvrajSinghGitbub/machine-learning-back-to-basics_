@@ -4,4 +4,4 @@ This repo is for learing and exploring the world of machine learning. I am follo
 
 
 Current learning status: 
-multiple linear regression (50% completed...)
+multiple linear regression (completed)
